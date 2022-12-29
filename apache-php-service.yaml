@@ -4,7 +4,6 @@ metadata:
   labels:
     run: apache-php
   name: apache-php
-  namespace: apache-php
 spec:
   ports:
   - port: 80
